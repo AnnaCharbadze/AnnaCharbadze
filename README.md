@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Anna!
 
-<!--
-**AnnaCharbadze/AnnaCharbadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏫 Education  
+🎓 **San Diego State University** – Bachelor of Science in Applied Arts and Sciences  
+💻 **Humber Polytechnic** – Currently studying Web Development  
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools  
+🌐 Frontend: HTML, CSS, JavaScript  
+⚙️ Backend: C#, SQL  
+🎨 Design: Figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Learning  
+📚 Expanding my skills in full-stack development  
+🔍 Exploring new web technologies and frameworks  
+
+## 📫 Let's Connect  
+🔗 [LinkedIn]([your-link-here](https://www.linkedin.com/in/anna-c-83a4b0b6/))  
